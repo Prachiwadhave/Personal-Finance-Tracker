@@ -1,0 +1,14 @@
+Date,Transaction Type,Category,Amount,Description,Payment Method
+2025-01-22,Debit,food,1200.0,dinner,Upi
+2025-01-25,Credit,tranfer,1000.0,"gold
+",UPI
+2025-01-25,Credit,tranfer,1000.0,"gold
+",UPI
+2025-01-25,Credit,tranfer,1000.0,"gold
+",UPI
+2025-01-25,Credit,tranfer,1000.0,"gold
+",UPI
+2025-01-07,Credit,food,3600.0,"Dinner
+",Cash
+2025-01-07,Credit,food,900.0,dinner,UPI
+2025-01-20,Debit,recharge,29.0,data pack,UPI
